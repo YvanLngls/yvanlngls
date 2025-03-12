@@ -1,4 +1,11 @@
-## Hi there 👋
+# ☄️ Yvan Langlois
+
+<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=yvanlngls"/>
+<img alt="top langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvanlngls&layout=compact"/>
+
+Restons en contact ! 
+
+<a href="https://www.linkedin.com/in/yvan-langlois/" target="_blank"><img alt="linkedin.com/in/yvan-langlois" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge" /></a>
 
 <!--
 **YvanLngls/yvanlngls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
